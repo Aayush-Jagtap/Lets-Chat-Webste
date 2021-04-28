@@ -1,0 +1,25 @@
+body {
+    background-image: url("loginbackgroundimg.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    position : center;
+    background-size: cover;
+}
+.header {
+    color :aliceblue;
+}
+h3{
+    color :aliceblue;
+}
+h4 {
+    color:aliceblue;
+}.form-group{
+    color:aliceblue;
+}
+.login_div {
+    text-align:center ;
+}
+input {
+    width: 600px;
+}
+   
